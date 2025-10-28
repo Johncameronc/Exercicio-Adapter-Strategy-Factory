@@ -25,7 +25,7 @@
     - `GerenciadorMidiaSocial`: Orquestra operações em múltiplas redes
 
 ## Diagrama de Classes
-<img src="Diagrama-cortado.png"/>
+<img src="./Diagrama-cortado.png"/>
 
 ## Como Executar
 
